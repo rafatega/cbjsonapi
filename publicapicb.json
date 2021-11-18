@@ -1,0 +1,18 @@
+{
+  "user1": {
+    "username": "rafatega",
+    "password": "17364832",
+    "ip": "172.1.1"
+  },
+  "user2": {
+    "username": "teteuson",
+    "password": "malaquias",
+    "ip": "192.180.2.0"
+  },
+  "user3": {
+    "username": "jogado",
+    "password": "nftplayer",
+    "ip": "128.1.1.1"
+  }
+}
+
