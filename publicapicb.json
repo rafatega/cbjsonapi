@@ -1,6 +1,6 @@
 {
   "rafatega": {
-    "password": "17364832",
+    "password": "123",
     "mac": "b0:7b:25:a8:25:5a"
   },
   "teteuson": {
@@ -14,6 +14,10 @@
   "caaz": {
     "password": "teteuson",
     "mac": "d4:5d:64:ee:46:20"
+  },
+  "pczao": {
+    "password": "123",
+    "mac": "2c:4d:54:4a:f8:c2"
   }
 }
 
