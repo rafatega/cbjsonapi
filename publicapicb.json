@@ -1,23 +1,18 @@
 {
   "rafatega": {
     "password": "123",
-    "mac": "b0:7b:25:a8:25:5a"
-  },
-  "teteuson": {
-    "password": "malaquias",
-    "mac": "192.180.2.0"
-  },
-  "jogado": {
-    "password": "nftplayer",
-    "mac": "128.1.1.1"
+    "mac": "b0:7b:25:a8:25:5a",
+    "tab": 3
   },
   "caaz": {
     "password": "teteuson",
     "mac": "d4:5d:64:ee:46:20"
+    "tab": 1
   },
   "pczao": {
     "password": "123",
     "mac": "2c:4d:54:4a:f8:c2"
+    "tab": 3
   }
 }
 
